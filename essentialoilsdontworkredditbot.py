@@ -1,6 +1,6 @@
 import praw
 
-reddit = praw.Reddit(client_id = '',
+reddit = praw.Reddit(client_id = 'secret',
                      client_secret = '',
                      username = '',
                      password = '',
